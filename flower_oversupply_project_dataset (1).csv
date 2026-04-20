@@ -1,0 +1,301 @@
+Record_ID,Village,Flower_Type,Season,Month,Farmers_Count,Production_Tons,Market_Supply_Tons,Market_Demand_Tons,Market_Price_per_kg,Production_Cost_per_kg,Profit_per_kg,Oversupply,Oversupply_Risk,Recommendation
+1,Village C,Chamanti Yellow,Monsoon,September,46,46,47,56,49,27,22,No,Low,Grow
+2,Village C,White Pom-pom,Monsoon,June,80,97,100,72,48,22,26,Yes,High,Avoid
+3,Village B,Chamanti White,Winter,February,52,113,130,84,43,20,23,Yes,High,Avoid
+4,Village B,Samanthi,Summer,May,59,137,149,110,25,11,14,Yes,High,Avoid
+5,Village B,Samanthi,Monsoon,July,21,85,91,113,39,15,24,No,Low,Grow
+6,Village E,White Pom-pom,Summer,May,29,78,100,82,42,13,29,Yes,Medium,Moderate
+7,Village E,Samanthi,Monsoon,July,68,100,103,131,50,21,29,No,Low,Grow
+8,Village A,Rose,Winter,January,38,89,87,83,51,25,26,Yes,Medium,Moderate
+9,Village C,Chamanti Yellow,Summer,May,45,123,114,75,23,19,4,Yes,High,Avoid
+10,Village B,Yellow Pom-pom,Monsoon,June,58,123,129,75,21,26,-5,Yes,High,Avoid
+11,Village C,Marigold,Monsoon,July,63,43,53,109,40,26,14,No,Low,Avoid
+12,Village D,Jasmine,Summer,May,24,98,110,50,51,32,19,Yes,High,Avoid
+13,Village E,Rose,Monsoon,June,53,127,131,70,39,22,17,Yes,High,Avoid
+14,Village C,Samanthi,Summer,April,32,147,144,58,31,24,7,Yes,High,Avoid
+15,Village C,Jasmine,Summer,April,79,67,77,95,40,35,5,No,Low,Avoid
+16,Village B,Chamanti Yellow,Summer,March,60,105,121,139,63,30,33,No,Low,Grow
+17,Village A,Samanthi,Summer,April,15,84,90,66,53,22,31,Yes,High,Avoid
+18,Village C,Jasmine,Winter,February,28,116,130,79,25,12,13,Yes,High,Avoid
+19,Village A,Samanthi,Winter,February,68,85,106,56,66,14,52,Yes,High,Avoid
+20,Village E,Yellow Pom-pom,Summer,May,43,144,156,57,53,19,34,Yes,High,Avoid
+21,Village A,White Pom-pom,Monsoon,July,74,126,144,51,45,28,17,Yes,High,Avoid
+22,Village E,Marigold,Summer,March,19,140,142,75,58,10,48,Yes,High,Avoid
+23,Village C,Samanthi,Summer,May,62,93,115,123,32,21,11,No,Low,Avoid
+24,Village E,Chamanti White,Summer,April,65,52,76,73,23,35,-12,Yes,Medium,Moderate
+25,Village C,Chamanti White,Monsoon,September,14,128,138,67,43,30,13,Yes,High,Avoid
+26,Village E,Rose,Monsoon,August,19,57,79,73,29,19,10,Yes,Medium,Moderate
+27,Village E,White Pom-pom,Winter,January,25,61,80,94,34,14,20,No,Low,Avoid
+28,Village A,Chamanti Yellow,Summer,April,65,111,101,68,62,24,38,Yes,High,Avoid
+29,Village E,Marigold,Summer,May,13,68,76,86,63,30,33,No,Low,Grow
+30,Village E,Rose,Winter,January,77,117,118,111,27,10,17,Yes,Medium,Moderate
+31,Village E,Rose,Winter,January,32,115,115,55,27,20,7,Yes,High,Avoid
+32,Village A,Rose,Summer,May,46,108,123,64,65,19,46,Yes,High,Avoid
+33,Village E,White Pom-pom,Winter,December,37,140,147,108,51,31,20,Yes,High,Avoid
+34,Village E,Rose,Monsoon,August,80,132,129,76,55,30,25,Yes,High,Avoid
+35,Village D,Marigold,Monsoon,August,43,115,108,130,50,13,37,No,Low,Grow
+36,Village D,Chamanti White,Summer,March,75,120,120,105,44,32,12,Yes,Medium,Moderate
+37,Village A,White Pom-pom,Summer,April,29,95,97,85,37,13,24,Yes,Medium,Moderate
+38,Village A,Chamanti Yellow,Monsoon,July,31,145,168,127,43,16,27,Yes,High,Avoid
+39,Village E,Samanthi,Summer,April,73,85,81,53,64,21,43,Yes,High,Avoid
+40,Village D,White Pom-pom,Winter,February,21,44,58,99,44,15,29,No,Low,Grow
+41,Village D,White Pom-pom,Winter,February,33,137,156,65,37,30,7,Yes,High,Avoid
+42,Village B,Rose,Monsoon,September,69,104,111,118,58,10,48,No,Low,Grow
+43,Village D,Chamanti Yellow,Monsoon,June,33,44,41,56,42,18,24,No,Low,Grow
+44,Village A,Samanthi,Winter,January,23,95,119,70,40,23,17,Yes,High,Avoid
+45,Village C,Chamanti White,Monsoon,September,69,97,90,54,34,12,22,Yes,High,Avoid
+46,Village C,Chamanti White,Monsoon,June,79,51,55,85,54,11,43,No,Low,Grow
+47,Village A,White Pom-pom,Monsoon,July,15,128,127,101,46,21,25,Yes,High,Avoid
+48,Village B,Jasmine,Summer,May,13,116,116,65,38,21,17,Yes,High,Avoid
+49,Village E,White Pom-pom,Monsoon,July,61,113,117,66,20,22,-2,Yes,High,Avoid
+50,Village D,Yellow Pom-pom,Summer,May,35,117,124,64,37,26,11,Yes,High,Avoid
+51,Village B,Jasmine,Summer,May,42,83,95,114,65,10,55,No,Low,Grow
+52,Village C,Jasmine,Summer,May,37,78,101,121,46,30,16,No,Low,Avoid
+53,Village D,Chamanti Yellow,Monsoon,June,25,47,48,83,51,29,22,No,Low,Grow
+54,Village A,Jasmine,Winter,December,27,96,107,139,33,33,0,No,Low,Avoid
+55,Village B,Chamanti Yellow,Summer,April,37,112,105,96,26,14,12,Yes,Medium,Moderate
+56,Village D,White Pom-pom,Winter,December,57,63,88,72,64,32,32,Yes,Medium,Moderate
+57,Village A,Marigold,Monsoon,June,45,83,87,71,23,18,5,Yes,Medium,Moderate
+58,Village C,Jasmine,Monsoon,September,17,68,75,78,35,33,2,No,Low,Avoid
+59,Village E,Marigold,Monsoon,August,42,121,123,135,25,18,7,No,Low,Avoid
+60,Village C,Chamanti Yellow,Summer,March,28,128,127,116,35,33,2,Yes,Medium,Moderate
+61,Village D,Samanthi,Summer,March,13,119,129,139,63,30,33,No,Low,Grow
+62,Village A,White Pom-pom,Summer,May,63,103,123,127,60,11,49,No,Low,Grow
+63,Village C,Jasmine,Monsoon,June,43,86,91,112,61,25,36,No,Low,Grow
+64,Village B,Chamanti Yellow,Monsoon,August,72,79,99,98,53,19,34,Yes,Medium,Moderate
+65,Village C,Chamanti Yellow,Monsoon,June,44,99,108,97,70,10,60,Yes,Medium,Moderate
+66,Village D,Samanthi,Winter,February,46,76,75,127,57,22,35,No,Low,Grow
+67,Village E,Chamanti White,Monsoon,June,38,49,46,64,68,26,42,No,Low,Grow
+68,Village B,Yellow Pom-pom,Monsoon,June,71,129,147,122,40,12,28,Yes,High,Avoid
+69,Village D,Marigold,Winter,January,78,104,98,71,42,34,8,Yes,High,Avoid
+70,Village D,Yellow Pom-pom,Winter,December,71,131,128,72,62,23,39,Yes,High,Avoid
+71,Village C,White Pom-pom,Summer,May,49,55,74,125,68,32,36,No,Low,Grow
+72,Village E,Yellow Pom-pom,Summer,April,22,78,95,53,70,32,38,Yes,High,Avoid
+73,Village C,Marigold,Monsoon,September,73,72,79,51,32,18,14,Yes,High,Avoid
+74,Village B,Yellow Pom-pom,Monsoon,July,28,60,59,133,41,10,31,No,Low,Grow
+75,Village B,Chamanti White,Winter,February,55,46,49,74,46,27,19,No,Low,Avoid
+76,Village E,Marigold,Winter,December,41,102,108,119,49,29,20,No,Low,Avoid
+77,Village C,Chamanti White,Summer,March,39,84,92,140,47,18,29,No,Low,Grow
+78,Village A,White Pom-pom,Winter,February,43,108,119,55,57,31,26,Yes,High,Avoid
+79,Village D,Chamanti White,Summer,April,80,125,137,75,26,30,-4,Yes,High,Avoid
+80,Village E,Yellow Pom-pom,Winter,December,46,77,69,101,52,24,28,No,Low,Grow
+81,Village E,Chamanti White,Winter,December,69,131,148,112,66,21,45,Yes,High,Avoid
+82,Village D,Rose,Winter,December,41,107,106,123,27,17,10,No,Low,Avoid
+83,Village E,Rose,Summer,March,32,87,82,63,40,29,11,Yes,Medium,Moderate
+84,Village C,Rose,Winter,December,39,114,122,77,27,35,-8,Yes,High,Avoid
+85,Village C,Chamanti White,Monsoon,July,70,117,118,72,61,12,49,Yes,High,Avoid
+86,Village B,White Pom-pom,Summer,April,63,84,105,68,49,20,29,Yes,High,Avoid
+87,Village C,Rose,Summer,May,60,74,95,112,27,30,-3,No,Low,Avoid
+88,Village B,Marigold,Winter,February,12,77,69,90,56,23,33,No,Low,Grow
+89,Village B,Samanthi,Summer,March,60,94,111,71,26,18,8,Yes,High,Avoid
+90,Village C,Chamanti Yellow,Monsoon,June,69,89,104,69,69,31,38,Yes,High,Avoid
+91,Village E,Samanthi,Summer,March,30,40,53,53,32,14,18,No,Low,Avoid
+92,Village E,Rose,Winter,December,58,134,152,100,53,30,23,Yes,High,Avoid
+93,Village D,Rose,Summer,March,64,42,65,102,56,26,30,No,Low,Grow
+94,Village C,Rose,Summer,April,30,109,120,83,52,33,19,Yes,High,Avoid
+95,Village D,Samanthi,Winter,January,66,66,85,140,27,26,1,No,Low,Avoid
+96,Village D,Jasmine,Summer,March,32,111,126,122,53,21,32,Yes,Medium,Moderate
+97,Village C,Jasmine,Monsoon,August,17,44,64,51,56,13,43,Yes,Medium,Moderate
+98,Village A,White Pom-pom,Winter,January,45,63,87,128,70,21,49,No,Low,Grow
+99,Village C,White Pom-pom,Monsoon,June,30,48,69,136,35,17,18,No,Low,Avoid
+100,Village A,Jasmine,Monsoon,June,49,76,83,64,44,21,23,Yes,Medium,Moderate
+101,Village D,Chamanti White,Summer,May,36,137,135,134,24,24,0,Yes,Medium,Moderate
+102,Village C,Chamanti Yellow,Winter,February,52,54,77,114,28,30,-2,No,Low,Avoid
+103,Village E,Marigold,Monsoon,September,22,90,102,54,69,10,59,Yes,High,Avoid
+104,Village C,Rose,Winter,December,37,107,124,67,60,30,30,Yes,High,Avoid
+105,Village E,Marigold,Monsoon,September,23,122,143,131,23,19,4,Yes,Medium,Moderate
+106,Village A,Rose,Summer,March,32,76,80,112,21,13,8,No,Low,Avoid
+107,Village E,Jasmine,Summer,May,72,119,117,139,58,28,30,No,Low,Grow
+108,Village E,Samanthi,Monsoon,June,17,91,107,50,55,10,45,Yes,High,Avoid
+109,Village B,Jasmine,Winter,December,29,143,163,71,61,18,43,Yes,High,Avoid
+110,Village B,Jasmine,Summer,March,53,127,144,129,33,19,14,Yes,Medium,Moderate
+111,Village D,Chamanti White,Monsoon,August,23,121,145,86,39,30,9,Yes,High,Avoid
+112,Village B,Chamanti Yellow,Summer,April,18,91,81,78,22,13,9,Yes,Medium,Moderate
+113,Village D,Marigold,Monsoon,June,23,126,134,82,38,10,28,Yes,High,Avoid
+114,Village A,Jasmine,Winter,December,60,101,92,90,36,19,17,Yes,Medium,Moderate
+115,Village B,Chamanti Yellow,Winter,December,52,132,127,64,61,20,41,Yes,High,Avoid
+116,Village C,Jasmine,Summer,April,61,57,76,52,38,18,20,Yes,High,Avoid
+117,Village C,Jasmine,Summer,March,55,101,114,118,42,24,18,No,Low,Avoid
+118,Village C,Jasmine,Summer,March,59,56,66,103,32,35,-3,No,Low,Avoid
+119,Village A,White Pom-pom,Summer,April,49,146,162,72,68,34,34,Yes,High,Avoid
+120,Village C,White Pom-pom,Summer,May,23,54,71,52,32,23,9,Yes,Medium,Moderate
+121,Village B,Chamanti Yellow,Winter,December,74,45,50,140,38,34,4,No,Low,Avoid
+122,Village E,Yellow Pom-pom,Summer,March,12,81,101,130,58,21,37,No,Low,Grow
+123,Village E,Samanthi,Winter,December,66,76,77,117,41,23,18,No,Low,Avoid
+124,Village E,Rose,Monsoon,June,23,86,96,120,33,34,-1,No,Low,Avoid
+125,Village B,Jasmine,Monsoon,September,19,78,89,73,49,33,16,Yes,Medium,Moderate
+126,Village B,Marigold,Monsoon,July,69,66,60,96,30,32,-2,No,Low,Avoid
+127,Village A,Chamanti Yellow,Monsoon,August,58,69,76,114,60,27,33,No,Low,Grow
+128,Village A,Yellow Pom-pom,Monsoon,September,36,103,124,89,57,29,28,Yes,High,Avoid
+129,Village C,Rose,Winter,December,27,108,106,107,39,34,5,No,Low,Avoid
+130,Village C,Marigold,Summer,May,15,52,77,68,20,11,9,Yes,Medium,Moderate
+131,Village D,Yellow Pom-pom,Monsoon,September,76,96,97,61,46,29,17,Yes,High,Avoid
+132,Village D,Marigold,Monsoon,June,11,118,128,53,44,10,34,Yes,High,Avoid
+133,Village D,Samanthi,Winter,January,68,139,157,113,46,34,12,Yes,High,Avoid
+134,Village C,Chamanti White,Winter,December,45,70,63,84,32,33,-1,No,Low,Avoid
+135,Village B,Yellow Pom-pom,Summer,May,28,41,41,69,41,19,22,No,Low,Grow
+136,Village D,Chamanti White,Winter,February,53,50,49,115,32,25,7,No,Low,Avoid
+137,Village A,Samanthi,Winter,February,56,113,104,98,54,21,33,Yes,Medium,Moderate
+138,Village A,Jasmine,Summer,April,14,137,161,73,26,26,0,Yes,High,Avoid
+139,Village E,Jasmine,Summer,March,61,99,110,126,25,32,-7,No,Low,Avoid
+140,Village A,White Pom-pom,Monsoon,June,28,84,81,121,35,34,1,No,Low,Avoid
+141,Village C,Chamanti White,Summer,March,59,110,115,107,62,23,39,Yes,Medium,Moderate
+142,Village B,Jasmine,Summer,May,77,83,103,97,59,18,41,Yes,Medium,Moderate
+143,Village D,White Pom-pom,Summer,May,22,63,83,129,53,25,28,No,Low,Grow
+144,Village E,Rose,Winter,January,16,147,159,128,54,16,38,Yes,High,Avoid
+145,Village E,Jasmine,Summer,March,80,100,105,140,44,22,22,No,Low,Grow
+146,Village C,Marigold,Winter,December,38,100,104,109,35,33,2,No,Low,Avoid
+147,Village D,Yellow Pom-pom,Winter,January,25,112,120,65,66,32,34,Yes,High,Avoid
+148,Village E,Jasmine,Monsoon,August,17,48,63,99,50,10,40,No,Low,Grow
+149,Village E,Yellow Pom-pom,Monsoon,September,62,107,111,112,32,22,10,No,Low,Avoid
+150,Village C,White Pom-pom,Monsoon,September,62,84,78,81,50,29,21,No,Low,Grow
+151,Village E,Chamanti Yellow,Summer,March,47,68,77,53,23,11,12,Yes,High,Avoid
+152,Village A,Marigold,Summer,April,75,120,129,82,31,35,-4,Yes,High,Avoid
+153,Village A,Chamanti White,Summer,April,72,64,57,137,53,17,36,No,Low,Grow
+154,Village A,Samanthi,Monsoon,September,57,112,127,117,42,20,22,Yes,Medium,Moderate
+155,Village A,Chamanti Yellow,Winter,January,35,126,143,85,51,23,28,Yes,High,Avoid
+156,Village C,Jasmine,Winter,January,22,118,117,107,43,13,30,Yes,Medium,Moderate
+157,Village C,Chamanti Yellow,Winter,February,79,123,142,80,31,12,19,Yes,High,Avoid
+158,Village E,Rose,Winter,December,64,149,173,124,55,14,41,Yes,High,Avoid
+159,Village A,Jasmine,Monsoon,August,47,136,127,104,49,23,26,Yes,High,Avoid
+160,Village D,Jasmine,Summer,April,35,74,65,120,56,25,31,No,Low,Grow
+161,Village E,Marigold,Summer,May,73,65,82,113,46,12,34,No,Low,Grow
+162,Village E,Marigold,Monsoon,June,79,81,89,51,21,34,-13,Yes,High,Avoid
+163,Village B,White Pom-pom,Monsoon,September,38,64,55,93,67,28,39,No,Low,Grow
+164,Village E,Chamanti White,Monsoon,September,37,106,122,120,38,12,26,Yes,Medium,Moderate
+165,Village C,White Pom-pom,Summer,May,56,82,74,54,42,14,28,Yes,Medium,Moderate
+166,Village E,White Pom-pom,Summer,April,22,130,152,98,28,16,12,Yes,High,Avoid
+167,Village C,Rose,Monsoon,June,24,89,108,137,65,24,41,No,Low,Grow
+168,Village D,Chamanti White,Monsoon,September,13,51,43,93,56,24,32,No,Low,Grow
+169,Village D,Rose,Winter,January,55,114,134,102,44,30,14,Yes,High,Avoid
+170,Village D,Marigold,Winter,February,28,127,146,115,34,29,5,Yes,High,Avoid
+171,Village C,Samanthi,Summer,May,35,47,47,110,38,24,14,No,Low,Avoid
+172,Village C,Chamanti Yellow,Winter,December,32,93,87,135,25,16,9,No,Low,Avoid
+173,Village D,Marigold,Summer,March,25,132,154,50,56,24,32,Yes,High,Avoid
+174,Village D,Chamanti White,Winter,February,30,107,106,130,67,20,47,No,Low,Grow
+175,Village E,Samanthi,Summer,March,51,126,142,128,62,29,33,Yes,Medium,Moderate
+176,Village B,Jasmine,Summer,May,67,96,117,91,38,12,26,Yes,High,Avoid
+177,Village D,Marigold,Monsoon,September,28,120,124,138,40,15,25,No,Low,Grow
+178,Village E,White Pom-pom,Summer,April,41,111,135,109,68,26,42,Yes,High,Avoid
+179,Village A,Marigold,Winter,January,74,148,173,137,68,25,43,Yes,High,Avoid
+180,Village A,White Pom-pom,Summer,April,71,41,65,112,44,24,20,No,Low,Avoid
+181,Village A,Yellow Pom-pom,Monsoon,August,69,129,154,66,47,23,24,Yes,High,Avoid
+182,Village B,Chamanti White,Winter,February,40,120,138,127,24,28,-4,Yes,Medium,Moderate
+183,Village B,Samanthi,Monsoon,September,57,85,96,125,56,13,43,No,Low,Grow
+184,Village A,Yellow Pom-pom,Winter,January,65,122,121,128,31,22,9,No,Low,Avoid
+185,Village B,Yellow Pom-pom,Winter,December,71,122,141,67,46,20,26,Yes,High,Avoid
+186,Village C,Samanthi,Winter,January,48,73,97,59,33,20,13,Yes,High,Avoid
+187,Village D,Yellow Pom-pom,Winter,December,24,63,83,98,66,13,53,No,Low,Grow
+188,Village C,White Pom-pom,Monsoon,June,28,129,131,81,24,30,-6,Yes,High,Avoid
+189,Village D,Chamanti Yellow,Winter,January,42,106,98,136,50,10,40,No,Low,Grow
+190,Village A,Rose,Winter,December,53,150,143,71,68,32,36,Yes,High,Avoid
+191,Village B,Chamanti White,Summer,April,39,132,151,137,49,25,24,Yes,Medium,Moderate
+192,Village B,Marigold,Monsoon,September,14,67,87,118,66,20,46,No,Low,Grow
+193,Village E,Yellow Pom-pom,Summer,March,55,87,108,83,39,20,19,Yes,High,Avoid
+194,Village A,Marigold,Monsoon,July,24,116,112,110,67,35,32,Yes,Medium,Moderate
+195,Village B,Chamanti Yellow,Winter,February,76,137,154,122,43,27,16,Yes,High,Avoid
+196,Village B,Yellow Pom-pom,Monsoon,June,48,70,81,117,55,16,39,No,Low,Grow
+197,Village E,White Pom-pom,Summer,May,28,58,68,120,35,32,3,No,Low,Avoid
+198,Village E,Yellow Pom-pom,Summer,March,78,94,84,64,38,17,21,Yes,Medium,Moderate
+199,Village E,Rose,Winter,February,46,97,111,51,58,28,30,Yes,High,Avoid
+200,Village B,Chamanti Yellow,Monsoon,June,32,46,50,81,56,26,30,No,Low,Grow
+201,Village E,Marigold,Summer,May,73,81,75,73,55,18,37,Yes,Medium,Moderate
+202,Village A,Yellow Pom-pom,Winter,December,39,131,144,134,53,33,20,Yes,Medium,Moderate
+203,Village B,Rose,Monsoon,August,41,70,80,96,31,10,21,No,Low,Grow
+204,Village B,Chamanti White,Monsoon,August,48,88,91,115,47,35,12,No,Low,Avoid
+205,Village C,Chamanti White,Monsoon,September,57,52,55,85,22,34,-12,No,Low,Avoid
+206,Village D,Jasmine,Summer,March,78,54,60,94,22,32,-10,No,Low,Avoid
+207,Village C,Chamanti Yellow,Winter,February,37,75,90,58,57,30,27,Yes,High,Avoid
+208,Village B,Rose,Winter,January,79,74,92,132,38,25,13,No,Low,Avoid
+209,Village D,Chamanti White,Monsoon,September,41,108,115,66,54,21,33,Yes,High,Avoid
+210,Village B,Rose,Summer,April,44,60,82,138,24,32,-8,No,Low,Avoid
+211,Village C,Samanthi,Winter,January,60,63,75,113,53,18,35,No,Low,Grow
+212,Village E,Chamanti White,Monsoon,June,17,130,142,121,26,25,1,Yes,High,Avoid
+213,Village C,Rose,Summer,March,54,83,84,88,62,11,51,No,Low,Grow
+214,Village C,White Pom-pom,Monsoon,September,25,136,157,121,66,20,46,Yes,High,Avoid
+215,Village A,Samanthi,Winter,December,29,118,120,77,69,33,36,Yes,High,Avoid
+216,Village D,Samanthi,Monsoon,August,19,114,138,85,68,24,44,Yes,High,Avoid
+217,Village C,White Pom-pom,Winter,January,73,81,93,99,49,18,31,No,Low,Grow
+218,Village D,Marigold,Summer,May,62,58,56,132,33,27,6,No,Low,Avoid
+219,Village A,Jasmine,Monsoon,July,22,73,63,122,34,34,0,No,Low,Avoid
+220,Village D,Rose,Summer,March,48,121,116,121,25,16,9,No,Low,Avoid
+221,Village D,Yellow Pom-pom,Winter,January,54,133,134,71,60,16,44,Yes,High,Avoid
+222,Village A,Yellow Pom-pom,Winter,February,74,116,135,75,31,29,2,Yes,High,Avoid
+223,Village A,Samanthi,Winter,January,28,91,113,92,32,23,9,Yes,High,Avoid
+224,Village A,Samanthi,Winter,January,36,81,102,121,20,25,-5,No,Low,Avoid
+225,Village C,Rose,Summer,May,43,75,83,119,33,27,6,No,Low,Avoid
+226,Village E,Marigold,Monsoon,June,63,101,92,123,34,22,12,No,Low,Avoid
+227,Village E,Yellow Pom-pom,Monsoon,June,62,118,117,76,49,19,30,Yes,High,Avoid
+228,Village B,Yellow Pom-pom,Winter,December,27,123,124,132,21,26,-5,No,Low,Avoid
+229,Village B,Yellow Pom-pom,Monsoon,July,49,133,138,105,27,10,17,Yes,High,Avoid
+230,Village B,Jasmine,Winter,December,45,114,139,75,22,35,-13,Yes,High,Avoid
+231,Village C,Chamanti Yellow,Monsoon,July,44,81,88,118,50,16,34,No,Low,Grow
+232,Village A,Chamanti White,Summer,March,32,103,99,53,66,29,37,Yes,High,Avoid
+233,Village D,White Pom-pom,Winter,December,72,128,143,102,43,13,30,Yes,High,Avoid
+234,Village E,Chamanti White,Summer,April,62,138,146,59,30,23,7,Yes,High,Avoid
+235,Village D,Jasmine,Monsoon,September,14,47,43,75,54,32,22,No,Low,Grow
+236,Village C,White Pom-pom,Winter,February,63,95,92,110,62,34,28,No,Low,Grow
+237,Village C,Jasmine,Summer,April,75,93,113,82,63,16,47,Yes,High,Avoid
+238,Village C,Yellow Pom-pom,Summer,March,54,60,71,88,52,25,27,No,Low,Grow
+239,Village B,White Pom-pom,Monsoon,July,53,49,61,53,38,12,26,Yes,Medium,Moderate
+240,Village C,Marigold,Winter,December,28,79,85,80,36,26,10,Yes,Medium,Moderate
+241,Village B,Samanthi,Winter,January,33,124,127,119,26,14,12,Yes,Medium,Moderate
+242,Village C,Marigold,Winter,December,50,102,102,56,40,29,11,Yes,High,Avoid
+243,Village C,Chamanti White,Winter,January,26,73,69,113,69,35,34,No,Low,Grow
+244,Village E,White Pom-pom,Summer,May,28,74,96,64,41,33,8,Yes,High,Avoid
+245,Village E,Rose,Monsoon,August,11,96,114,112,31,25,6,Yes,Medium,Moderate
+246,Village B,Marigold,Monsoon,August,67,40,34,62,43,32,11,No,Low,Avoid
+247,Village D,White Pom-pom,Winter,December,44,149,153,113,27,12,15,Yes,High,Avoid
+248,Village B,Chamanti White,Monsoon,July,33,69,74,110,70,33,37,No,Low,Grow
+249,Village E,White Pom-pom,Winter,January,20,120,111,64,62,12,50,Yes,High,Avoid
+250,Village B,Chamanti White,Winter,January,80,78,87,104,34,35,-1,No,Low,Avoid
+251,Village A,Chamanti White,Summer,March,76,119,124,111,42,12,30,Yes,Medium,Moderate
+252,Village A,Chamanti Yellow,Winter,December,45,114,132,52,39,14,25,Yes,High,Avoid
+253,Village B,White Pom-pom,Summer,April,17,98,108,65,51,35,16,Yes,High,Avoid
+254,Village C,Samanthi,Summer,March,58,114,104,67,65,23,42,Yes,High,Avoid
+255,Village A,Samanthi,Winter,February,72,132,152,109,51,33,18,Yes,High,Avoid
+256,Village C,Chamanti Yellow,Summer,April,16,84,90,117,51,22,29,No,Low,Grow
+257,Village A,Jasmine,Summer,March,38,51,56,82,63,12,51,No,Low,Grow
+258,Village E,Samanthi,Winter,December,32,63,75,66,35,12,23,Yes,Medium,Moderate
+259,Village D,Rose,Summer,April,44,76,72,88,70,31,39,No,Low,Grow
+260,Village C,Marigold,Winter,February,48,80,91,115,29,27,2,No,Low,Avoid
+261,Village D,Chamanti Yellow,Summer,April,45,115,107,95,48,25,23,Yes,Medium,Moderate
+262,Village D,Yellow Pom-pom,Summer,May,72,55,77,119,70,11,59,No,Low,Grow
+263,Village A,Marigold,Winter,February,37,117,107,138,48,28,20,No,Low,Avoid
+264,Village A,Marigold,Summer,March,29,134,146,54,25,24,1,Yes,High,Avoid
+265,Village C,Jasmine,Monsoon,August,69,66,63,68,25,34,-9,No,Low,Avoid
+266,Village C,Jasmine,Summer,May,59,139,150,108,66,22,44,Yes,High,Avoid
+267,Village A,Rose,Monsoon,June,18,140,134,76,24,18,6,Yes,High,Avoid
+268,Village C,Marigold,Winter,January,75,49,58,111,61,30,31,No,Low,Grow
+269,Village C,Yellow Pom-pom,Winter,January,33,52,68,133,53,14,39,No,Low,Grow
+270,Village E,Marigold,Summer,May,76,78,73,75,52,18,34,No,Low,Grow
+271,Village A,Yellow Pom-pom,Summer,April,54,77,101,76,25,17,8,Yes,High,Avoid
+272,Village A,Samanthi,Monsoon,August,25,103,99,71,21,27,-6,Yes,High,Avoid
+273,Village C,Rose,Summer,May,41,88,98,71,43,26,17,Yes,High,Avoid
+274,Village C,Samanthi,Winter,January,55,69,71,140,68,19,49,No,Low,Grow
+275,Village C,White Pom-pom,Winter,January,39,106,127,76,49,20,29,Yes,High,Avoid
+276,Village E,Rose,Winter,December,15,42,52,100,39,15,24,No,Low,Grow
+277,Village D,Samanthi,Summer,March,72,99,102,130,34,26,8,No,Low,Avoid
+278,Village E,Rose,Winter,December,58,50,53,113,21,29,-8,No,Low,Avoid
+279,Village D,Rose,Winter,January,37,117,115,87,59,29,30,Yes,High,Avoid
+280,Village A,Chamanti Yellow,Winter,January,61,57,69,135,43,19,24,No,Low,Grow
+281,Village E,Rose,Monsoon,August,41,82,90,107,22,20,2,No,Low,Avoid
+282,Village A,Chamanti White,Summer,March,62,125,135,121,27,14,13,Yes,Medium,Moderate
+283,Village B,Chamanti Yellow,Summer,April,44,111,113,85,52,34,18,Yes,High,Avoid
+284,Village E,Marigold,Summer,March,55,109,101,75,68,24,44,Yes,High,Avoid
+285,Village C,Chamanti White,Monsoon,June,55,71,96,108,48,35,13,No,Low,Avoid
+286,Village D,Rose,Summer,March,17,74,83,71,49,21,28,Yes,Medium,Moderate
+287,Village A,Chamanti White,Monsoon,September,76,148,150,74,68,18,50,Yes,High,Avoid
+288,Village C,Yellow Pom-pom,Monsoon,September,13,98,114,62,27,26,1,Yes,High,Avoid
+289,Village C,Rose,Summer,March,44,56,52,128,37,15,22,No,Low,Grow
+290,Village A,Samanthi,Summer,May,80,72,74,70,45,33,12,Yes,Medium,Moderate
+291,Village C,Chamanti White,Summer,May,75,47,38,77,66,21,45,No,Low,Grow
+292,Village D,Chamanti White,Winter,February,51,133,143,51,54,13,41,Yes,High,Avoid
+293,Village E,Yellow Pom-pom,Winter,December,13,95,91,110,57,14,43,No,Low,Grow
+294,Village C,White Pom-pom,Monsoon,August,14,74,81,94,36,11,25,No,Low,Grow
+295,Village E,Samanthi,Monsoon,July,32,132,131,72,69,26,43,Yes,High,Avoid
+296,Village D,Samanthi,Winter,January,38,40,41,140,55,11,44,No,Low,Grow
+297,Village B,Marigold,Monsoon,June,29,55,68,113,23,32,-9,No,Low,Avoid
+298,Village A,Chamanti Yellow,Winter,December,71,137,162,124,47,28,19,Yes,High,Avoid
+299,Village A,Samanthi,Winter,January,56,88,83,128,43,20,23,No,Low,Grow
+300,Village E,Chamanti White,Summer,March,57,149,155,82,31,17,14,Yes,High,Avoid
